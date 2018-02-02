@@ -1,6 +1,6 @@
 package com.haitian.generator;
 
-public class User {
+public class Book {
     private Integer id;
 
     private String author;

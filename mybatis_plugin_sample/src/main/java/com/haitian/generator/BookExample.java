@@ -3,14 +3,14 @@ package com.haitian.generator;
 import java.util.ArrayList;
 import java.util.List;
 
-public class UserExample {
+public class BookExample {
     protected String orderByClause;
 
     protected boolean distinct;
 
     protected List<Criteria> oredCriteria;
 
-    public UserExample() {
+    public BookExample() {
         oredCriteria = new ArrayList<Criteria>();
     }
 
