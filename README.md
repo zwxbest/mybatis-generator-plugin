@@ -12,8 +12,8 @@ Which means this can only add deleted nodes,not modify the current.
 
 ## Usage
 
-- 1.download the code,open it and use maven install to install the jar to your local repository
-- 2.config maven plugin
+- 1.download the jar in release,add it to your lib.
+- 2.config maven plugin.
  
   ![maven_config](linkImages/maven_config.png	)
   
